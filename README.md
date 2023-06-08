@@ -16,10 +16,10 @@ Original COCO Data: https://drive.google.com/file/d/1AbaaGUQSQYPzEJppEwl_RNMYf73
 
 ### SegFormer 
 
-  Data: 
-  This model accesses our dataset stored in Roboflow so there is no need to add anything to your Google Drive. If you would like to run the model on a different dataset please       change the API key when importing the data. 
+Data: 
+This model accesses our dataset stored in Roboflow so there is no need to add anything to your Google Drive. If you would like to run the model on a different Roboflow dataset please change the API key when importing the data. 
 
-  Training: 
-  To train your own model, simply execute the code blocks in order and specify your desired hyperparameters.
+Training: 
+To train your own model, simply execute the code blocks in order and specify your desired hyperparameters (i.e. number of features, batch size, epochs)
 
-  Testing: 
+Testing:
