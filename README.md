@@ -6,6 +6,8 @@ Stylized Data (cocoStyle): https://drive.google.com/file/d/1JGJ78FqcwEvTayuFj4gi
 
 Original COCO Data: https://drive.google.com/file/d/1AbaaGUQSQYPzEJppEwl_RNMYf73lu4DV/view?usp=share_link
 
+**In order to run our notebooks, open the Stylized Data link in your Google Drive. From your "Shared With Me" folder, click "Add a shortcut" option on the zip file, and add a shortcut to "My Drive". That way you will be able to access the dataset and run the code without having to re-download the (very big) dataset**
+
 ## Models 
 
 ### UNet 
