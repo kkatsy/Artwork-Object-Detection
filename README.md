@@ -25,3 +25,11 @@ Training:
 To train your own model, simply execute the code blocks in order and specify your desired hyperparameters (i.e. number of features, batch size, epochs)
 
 Testing:
+
+
+## References 
+1. Kadish, David, Sebastian Risi, and Anders Sundnes Løvlie. "Improving object detection in art images using only style transfer." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-8. IEEE, 2021.
+2. Huang, Xun, and Serge Belongie. "Arbitrary style transfer in real-time with adaptive instance normalization." In Proceedings of the IEEE international conference on computer vision, pp. 1501-1510. 2017.
+3. Xie, Enze, Wenhai Wang, Zhiding Yu, Anima Anandkumar, Jose M. Alvarez, and Ping Luo. "SegFormer: Simple and efficient design for semantic segmentation with transformers." Advances in Neural Information Processing Systems 34 (2021): 12077-12090.
+4. Chen, Liang-Chieh, Yukun Zhu, George Papandreou, Florian Schroff, and Hartwig Adam. "Encoder-decoder with atrous separable convolution for semantic image segmentation." In Proceedings of the European conference on computer vision (ECCV), pp. 801-818. 2018.
+5. 
