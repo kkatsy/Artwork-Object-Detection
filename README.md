@@ -2,9 +2,12 @@
 ## CSE252D
 
 ## Data 
+Original COCO Data: https://drive.google.com/file/d/1AbaaGUQSQYPzEJppEwl_RNMYf73lu4DV/view?usp=share_link
+
 Stylized Data (cocoStyle): https://drive.google.com/file/d/1JGJ78FqcwEvTayuFj4giH7J63UOCF2sw/view?usp=share_link
 
-Original COCO Data: https://drive.google.com/file/d/1AbaaGUQSQYPzEJppEwl_RNMYf73lu4DV/view?usp=share_link
+Roboflow Data (subset of cocoStyle + custom test set): https://universe.roboflow.com/252/people-in-art
+
 
 **In order to run our notebooks, open the Stylized Data link in your Google Drive. From your "Shared With Me" folder, click "Add a shortcut" option on the zip file, and add a shortcut to "My Drive". That way you will be able to access the dataset and run the code without having to re-download the (very big) dataset**
 
