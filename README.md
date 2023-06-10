@@ -4,7 +4,7 @@
 
 ## To Run Our Code:
 1. Click the data link, which will open our data folder ("252D_mini_project_PKMR") in your "Shared with Me" folder in your Google Drive.
-2. Click on the three dots on your file's tab to open file options. From there, select "Add a shortcut" option for the folder, and select "My Drive". This way, you will be able to access our data files via your Google Colab without having to redownload all of our data and models.
+2. Click on the three dots on your file's tab to open file options. From there, select "Add a shortcut" option for the folder, and select "My Drive". You should now be able to go to "My Drive" and see a shortcut to our data folder there. This way, you will be able to access our data files via your Google Colab without having to redownload all of our data and models.
 3. After opening the notebook of your choice in Google Colab and mounting your drive, you will now be able to run our code.
 
 ## Data
